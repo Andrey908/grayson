@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "Roboto-Regular";
+    src: url(/fonts/Roboto-Regular.ttf)format('truetype');
+    font-weight: 400;
+}
+@font-face{
+    font-family: "PlayfairDisplay";
+    src: url(/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf)format('truetype');
+    font-family: 400;
+}
